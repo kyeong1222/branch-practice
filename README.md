@@ -2,4 +2,4 @@
 
 ## users
 
-- kyeong1222: Jinkyeong Oh
+- kyeong1222: 오진경
